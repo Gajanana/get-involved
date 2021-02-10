@@ -23,9 +23,9 @@ This chapter will show you basic Docker tooling with IntelliJ IDEA:
 
 ## Install Docker Plugin in IDEA
 
-Go to "`Preferences`", "`Plugins`", "`Install JetBrains plugin...`", search on "`docker`" and click on "`Install`"
+Go to "`Preferences`", "`Plugins`",  search on "`docker`" and click on "`Install`"
 
-![My Image](../../../../images/logos/install_plugin.png)
+![My Image](install_plugin.png)
 
 Restart IntelliJ IDEA to active plugin.
 
@@ -51,7 +51,7 @@ Select top-level node with the name "`Docker`", click on "`Pull image`"
 
 ![My Image](docker-intellij-pull-image.png)
 
-Type an image name, such as `arungupta/couchbase`, and "`OK`"
+Type an image name, such as `wordpress`, and "`OK`"
 
 ![My Image](docker-intellij-repository-name.png)
 
